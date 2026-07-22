@@ -44,4 +44,4 @@ python main.py
 
 ## Author
 
-Ahmed Waleed
+Ahmed Alghofaili
